@@ -1,4 +1,9 @@
-﻿
+﻿'Morgan Puckett
+'RCET0265
+'Spring 2022
+'Better Calculator
+'https://github.com/Morgan-Puckett/BetterCalculator.git
+
 Option Explicit On
 Option Strict On
 Option Compare Text
